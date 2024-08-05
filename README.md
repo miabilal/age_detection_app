@@ -1,16 +1,22 @@
-# age_detection_app
+# Flutter Age Detection App
 
-A new Flutter project.
+A Flutter application that uses an image-based age detection API to estimate the age of individuals in photos. This app allows users to pick an image from their gallery and see the estimated age of detected faces.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Pick an image from the gallery.
+- Upload the image to the age detection API.
+- Display detected ages for faces in the image.
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK installed on your machine.
+- A valid API key for the age detection service.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/username/repository-name.git
+cd repository-age_detection_app
